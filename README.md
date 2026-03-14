@@ -1,18 +1,13 @@
-# House Price Prediction using Linear Regression
+# Machine Learning Projects
 
-This project predicts house prices using the Linear Regression algorithm.
+This repository contains my Linear Regression projects implemented in Python using Google Colab.
 
-This project was completed as part of my internship training at Novitech and implemented using Python in Google Colab.
+## 1. House Price Prediction
+- Predicts house prices using Linear Regression
+- Tools: Python, Pandas, Scikit-learn, Matplotlib
 
-## Tools Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Google Colab
+## 2. Exam Mark Prediction
+- Predicts student exam marks using Linear Regression
+- Tools: Python, Pandas, Scikit-learn, Matplotlib
 
-## Steps Involved
-1. Data preprocessing
-2. Training the Linear Regression model
-3. Predicting house prices
-4. Visualizing the results
+These projects helped me understand data preprocessing, model training, and evaluation.
